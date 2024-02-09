@@ -1,4 +1,3 @@
-#!/bin/bas
 usage = `'free -m'`
 if [ $usage -gt 100000 ]
 then
