@@ -1,4 +1,4 @@
-usage = `'free -m'`
+usage=`'free -m'`
 if [ $usage -gt 100000 ]
 then
         echo " DISk usage is morethan "
