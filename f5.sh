@@ -6,4 +6,3 @@ else
         echo " Disk Usage is less"
 
 fi
-
