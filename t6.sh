@@ -1,1 +1,2 @@
-touch file2 
+touch file3
+echo "new file created"
